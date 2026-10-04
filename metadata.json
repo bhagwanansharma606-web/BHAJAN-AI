@@ -1,0 +1,6 @@
+{
+  "name": "Bhajan AI – Indian Devotional Song Maker",
+  "description": "Create original Indian devotional bhajans, aartis, kirtans, and spiritual songs with AI lyrics, Indian instrument arrangements, and devotional vocals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
